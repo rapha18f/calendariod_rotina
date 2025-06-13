@@ -32,6 +32,8 @@ O botão direito marca "FALTA" no dia clicado (isso não altera o arquivo origin
 📁 Arquivos Necessários:
 AgendaPessoal.exe – o programa executável.
 
+OBS.: pode não funcionar devido a resolução do dispositivo em uso.
+
 function.py (incluso no .exe automaticamente).
 
 Seu arquivo .txt com os compromissos.
