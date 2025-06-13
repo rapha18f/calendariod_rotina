@@ -37,3 +37,9 @@ OBS.: pode não funcionar devido a resolução do dispositivo em uso.
 function.py (incluso no .exe automaticamente).
 
 Seu arquivo .txt com os compromissos.
+
+
+
+
+
+Melhorias e sugestões bem-vindas! Sou iniciante em programação!
